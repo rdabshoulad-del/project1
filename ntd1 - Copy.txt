@@ -5,6 +5,12 @@
 </head>
 <body>
 <h1>WELCOME</h1>
-
+<p>
+<ul>
+<li>html</li>
+<li>javaskript</li>
+<li>css</li>
+</ul>
+</p>
 </body>
 </html>
